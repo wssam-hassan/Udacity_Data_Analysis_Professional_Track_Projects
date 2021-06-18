@@ -5,7 +5,7 @@ In this project, the purpose is to make use of Python to explore data related to
 I wrote a code to import the data and answer questions about it by computing descriptive statistics.
 I also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
-## The first Project "We Rate Dogs"
+## The Second Project "We Rate Dogs"
 In this project, the purpose is to wrangle WeRateDogs Twitter data to create analyses and visualizations.
 
 Data wrangled through 3 main steps:
