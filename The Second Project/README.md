@@ -1,4 +1,4 @@
-## The Second Project "We Rate Dogs"
+# The Second Project "We Rate Dogs"
 In this project, the purpose is to wrangle WeRateDogs Twitter data to create analyses and visualizations.
 
 Data wrangled through 3 main steps:
